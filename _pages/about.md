@@ -15,7 +15,7 @@ To formalize my understanding of network fundamentals, I earned my **CompTIA Net
 
 I am actively seeking a **Cybersecurity Internship for Summer 2026** where I can contribute my analytical mindset and growing passion for defense to a dynamic team.
 
-[**Download my full resume here (PDF)**](Busch_Resume.pdf)
+[**Download my full resume here (PDF)**](/files/Busch_Resume.pdf)
 
 ---
 
