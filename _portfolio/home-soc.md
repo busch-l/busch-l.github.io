@@ -15,6 +15,7 @@ This portfolio entry serves as a living document, showcasing the build process, 
 The lab operates on a private, segmented network (`192.168.1.0/24`) managed by a pfSense firewall, ensuring all traffic is monitored and controlled in a safe sandbox environment.
 
 ![Network Topology](/images/Topology_of_Project.png)
+
 *The planned network topology, designed in draw.io to serve as the project's architectural blueprint.*
 
 | Role              | Tool/OS             | Purpose                                                                 |
@@ -36,6 +37,7 @@ I am documenting the entire build process in a detailed lab journal. The core in
 *   **Phase 2: System Configuration:** The pfSense firewall is installed and configured, providing DHCP and internet access to the lab. The Kali Linux VM has been hardened, and a Wazuh agent has been successfully deployed to it, confirming its connection to the SIEM.
 
 ![Wazuh Agent Confirmation](/images/Kali_deployed_agent.png)
+
 *Confirmation in the Wazuh dashboard showing the Kali Linux agent is active and communicating.*
 
 **Current Objective:**
