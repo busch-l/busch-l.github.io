@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-As a Computer Science student at the University of Michigan, I'm building a strong foundation in software development, data structures, and computer organization. While I've always been interested in how systems work, my passion for securing them truly crystallized during my IT internship at Franchino Mold & Engineering.
+While studying Computer Science at the University of Michigan, I am building a foundation in software through coursework like **Data Structures & Algorithms** and exploring cybersecurity passion in the course **Introduction to Computer Security**. My passion is fueled by a desire to apply theoretical knowledge to solve real-world security challenges, which I have pursued both through professional experience and hands-on projects.
 
-There, I moved beyond theory and was trusted to lead practical security initiatives. I strengthened the company's security posture by deploying Multi-Factor Authentication (MFA) across critical devices, researched Mobile Device Management (MDM) solutions to protect corporate data, and enhanced network visibility by inventorying and documenting over 60 network devices. This hands-on experience solidified my career path and motivated me to dive deeper.
+I currently work as a **Tech Help Consultant** for the University of Michigan's IT Services, where I provide technical support to the community, resolving hardware, software, and security issues. This role builds on my experience as an **IT Support Intern** at Franchino Mold & Engineering, where I was trusted to lead practical initiatives that strengthened their security posture. There, I deployed Multi-Factor Authentication (MFA) across critical accounts, documented over 60 network devices to improve incident response, and analyzed firewall rules to enhance network security.
 
-To formalize my understanding of network fundamentals, I earned my **CompTIA Network+** certification and am now actively studying for the **CompTIA Security+**. To apply these concepts in a practical, hands-on environment, I've built my own cybersecurity home lab. This project, detailed in my portfolio, allows me to simulate real-world attacks, analyze network traffic, and get hands-on experience with tools like **Wazuh (SIEM)** and **pfSense (Firewall)**.
+To dive deeper into defensive and offensive security, I am developing projects that bridge my software and security interests. I architected a **cybersecurity home lab** using VirtualBox, pfSense, and a Wazuh SIEM to simulate and detect real-world attacks using tools like Nmap and Metasploit. Additionally, I am developing an **AI-powered phishing email detector** in Python, leveraging NLTK and Scikit-learn to classify malicious emails. My hands-on work is supported by foundational knowledge validated by my **CompTIA Security+** and **CompTIA Network+** certifications.
 
-I am actively seeking a **Cybersecurity Internship for Summer 2026** where I can contribute my analytical mindset and growing passion for defense to a dynamic team.
+I am also a new member of **WolvSec**, the university's cybersecurity club, and am seeking a **Cybersecurity Internship for Summer 2026** where I can contribute my analytical mindset and growing skills to a dynamic team.
 
 [**Download my full resume here (PDF)**](/files/Busch_Resume.pdf)
 
@@ -22,23 +22,15 @@ I am actively seeking a **Cybersecurity Internship for Summer 2026** where I can
 ## Technical Skills
 
 ### Languages
-* C++, C, Python, Java, SQL, HTML, ASP.NET
+* C++, C, Python, Java, SQL
 
-### Cybersecurity Tools
+### Tools
 * **SIEM/XDR:** Wazuh
-* **Firewall:** pfSense
-* **Network Analysis:** Nmap, Wireshark
-* **Exploitation Framework:** Metasploit
-* **Virtualization:** VirtualBox
+* **Network & Security:** pfSense, Nmap, Metasploit, VirtualBox
+* **Developer:** Git, GitHub, VS Code
+
+### OS & Networking
+* Linux, Windows, TCP/IP, DNS, DHCP, Subnetting, OSI Model
 
 ### Security Concepts
-* Network Security & Segmentation
-* Incident Detection & Threat Analysis
-* SIEM & Log Analysis
-* Multi-Factor Authentication (MFA)
-* Mobile Device Management (MDM) Policy
-* Vulnerability & Risk Assessment
-* IT Asset Management
-
-### Developer Tools
-* Git & GitHub
+* Incident Response, Vulnerability Assessment, Network Security, MFA, MDM Policy
